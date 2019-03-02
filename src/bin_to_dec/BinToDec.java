@@ -2,7 +2,7 @@ package bin_to_dec;
 
 import java.util.Scanner;
 
-//appo::cjndcsdc
+//app
 public class BinToDec {
 	private int binary;
 	
